@@ -1,0 +1,1062 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Rapid Bootstrap Template - Index</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,400,500,600,700" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Rapid - v4.7.1
+  * Template URL: https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center header-transparent">
+    <div class="container d-flex align-items-center">
+
+                <h1><img src="img/Logo.png" style="height:52px; "></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+      <nav id="navbar" class="navbar order-last order-lg-0">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#services">Services</a></li>
+          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
+          <li><a class="nav-link scrollto" href="#team">Team</a></li>
+          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="#">Drop Down 1</a></li>
+              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="#">Deep Drop Down 1</a></li>
+                  <li><a href="#">Deep Drop Down 2</a></li>
+                  <li><a href="#">Deep Drop Down 3</a></li>
+                  <li><a href="#">Deep Drop Down 4</a></li>
+                  <li><a href="#">Deep Drop Down 5</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Drop Down 2</a></li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+            </ul>
+          </li>
+          <li><a class="nav-link scrollto" href="#footer">Contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+      <div class="social-links">
+        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+      </div>
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="clearfix">
+    <div class="container d-flex h-100">
+      <div class="row justify-content-center align-self-center" data-aos="fade-up">
+       <!--  <div class="col-lg-6 intro-info order-lg-first order-last" data-aos="zoom-in" data-aos-delay="100">
+          <h2>Rapid Solutions<br>for Your <span>Business!</span></h2>
+          <div>
+            <a href="#about" class="btn-get-started scrollto">Get Started</a>
+          </div>
+        </div> -->
+
+        <!-- <div class="col-lg-6 intro-img order-lg-last order-first" data-aos="zoom-out" data-aos-delay="200" > width: 1353px;margin-top: 9px; slide image 1
+          <img src="assets/img/intro-img.svg" alt="" class="img-fluid">
+        </div> -->
+
+         <div class="col-md-6 intro-img order-md-last order-first">
+    <img src="SlideImages/Slide1.jpg" alt="" style="margin-left: -376px;height: 971px;" >
+        </div>
+
+      </div>
+
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+     <section id="about">
+
+            <div class="container">
+<br />
+
+<br />
+
+<br />
+
+
+    <header class="section-header">
+                    <h3>About Us</h3>
+                    
+                </header>
+
+                <div class="row">
+     
+
+                    <div class="col-lg-12 col-md-12">
+                        <div class="about-content">
+                           
+                            <p>
+                                ECOPACK LLC is one of the leading distributors of Hotel & Catering products based in UAE
+                                since 2015. We have specializes in offering tailored solutions to suit the tastes and preferences of
+                                our clients.
+                            </p>
+                            <p>
+                                Since inception we have built up solid infrastructures, distribution mobility, warehousing facility
+                                and above all very strong and efficient marketing strategies. We have an established client
+                                services team, which can provide - an outsourcing, managed service to bind together numerous
+                                business functions. We hope to establish long term client relationships with, providing consist
+                                service levels.
+                            </p>
+                            <ul>
+                                <li>
+                                    <i class="ion-android-checkmark-circle"></i> Over the years we have launched and positioned many products in the market. Our vast product
+                                    range, competitive price and excellent service have enabled us to establish, as a consistent
+                                    supplier in this Industry.
+                                </li>
+                                <li>
+                                    <i class="ion-android-checkmark-circle"></i>Our expertise and long team experience in hospitality industry has enabled us to source and
+                                    supply a wide range of Hotel & catering products which includes Housekeeping Products, F& B
+                                    Service Items and Disposables. We also specialized in innovative and customized products that
+                                    suit the unique needs of our client.
+                                </li>
+                                <li>
+                                    <i class="ion-android-checkmark-circle"></i> We have built our reputation in the market on being responsive, reliable and have formed longteam relationship with all our customers. Let us show you how we can make the usual tedious
+                                    task of Hotel and Catering supply a simple and hassle-free experience.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section><!-- #about -->
+
+    <!-- ======= Services Section ======= -->
+      <section id="services" class="section-bg" style="display: none;">
+            <div class="container">
+
+                <header class="section-header">
+                    <h3>Our Products</h3>
+       <p>  </p>
+                    <!--<p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus.</p> -->
+                </header>
+
+                <div class="row">
+
+                  
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image1.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">BURGER BOX</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image2.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">MEAL TRAY 22X 14 X5.5CM</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image3.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">MEAL TRAY 19 X 14 X 5CM</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image4.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">MEAL TRAY 15.4 X 10.4 X 3.9CM</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image5.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">MEAL TRAY 11.6 X 8 X 3.2CM</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image6.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">BOARD TRAY 22 X 22 CM [L]</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image7.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">BOARD TRAY 17 X 13 CM [M]</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image8.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">BOARD TRAY 14 X 10 CM [S]</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image9.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">BOARD BURGER BOX [S] </a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image10.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">BOARD BURGER BOX [M] </a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image11.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">BOARD BURGER BOX [L] </a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image12.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">BOARD CHIPS BOX 11.5 CM X 8 CM</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image13.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">CHIPS CUP 12 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image14.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">SOUP CUPS 8 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image15.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">SOUP CUPS 12 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image16.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">SOUP CUPS 16 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image17.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">LIDS FOR SOUP CUPS 8/12/16 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image18.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">SOUP CUPS 26 OZ W/PAPER LIDS </a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image19.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">SOUP CUPS 32 OZ W/PAPER LIDS </a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image20.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">RIPPLE CUPS W/BLACK LIDS 8 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image21.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">RIPPLE CUPS W/BLACK LIDS 12 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image22.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">RIPPLE CUPS W/BLACK LIDS 16 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image23.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">HD PAPER CUPS 7 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image24.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">HD PAPER CUPS 8 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image25.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">HD PAPER CUPS 12 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image26.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">HD PAPER CUPS 16 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image27.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">RIPPLE CUPS  4 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image28.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">ST-BLACK LID FOR PAPER CUP 4 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image29.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">ST-WHITE LID FOR PAPER CUP 4 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image30.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">RIPPLE CUPS  8 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image31.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">ST-BLACK LID FOR PAPER CUP 8 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image32.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">ST-WHITE LID FOR PAPER CUP 8 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image33.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">RIPPLE CUPS  12 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image34.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">ST-BLACK LID FOR PAPER CUP 12 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image35.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">ST-WHITE LID FOR PAPER CUP 12 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image36.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">RIPPLE CUPS  16 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image37.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">ST-BLACK LID FOR PAPER CUP 16 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image39.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">DOUBLE WALL CUP 4 OZ </a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image40.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">DOUBLE WALL CUP 8 OZ </a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image41.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">DOUBLE WALL CUP 12 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image38.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">ST-WHITE LID FOR PAPER CUP 16 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image42.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">DOUBLE WALL CUP 16 OZ</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image43.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">FOOD PAIL SMALL [11.3 X 9 X 6.5]</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image44.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">FOOD PAIL MEDIUM [15.2 X 12 X 6.5]</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image45.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">FOOD PAIL LARGE [19.7 X 14 X 9]</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image46.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">MEAL BOX W/WINDOW SMALL</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image47.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">MEAL BOX W/WINDOW MEDIUM</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image48.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">MEAL BOX W/WINDOW LARGE</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image49.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">SALAD BOWL 1090 ML W/PLASTIC LIDS</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image50.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">SALAD BOWL 1350 ML W/PLASTIC LIDS</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image51.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">SALAD BOWL 500 ML</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image52.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">SALAD BOWL 750 ML</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image53.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">SALAD BOWL 1000 ML</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image54.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">ST- PET LIDS FOR SALAD BOWLS [500/750/1000 ML] </a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image55.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">SALAD BOWL 1090 ML</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image56.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">ST- PET LIDS FOR SALAD BOWLS 1090 ML </a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image57.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">SALAD BOWL 1200 ML</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image58.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">ST- PET LIDS FOR SALAD BOWLS 1200 ML</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image59.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">SALAD BOWL 1300 ML </a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image60.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">ST- PET LIDS FOR SALAD BOWLS 1300 ML</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image61.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">PIZZA BOX SMALL 22CM </a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image62.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">PIZZA BOX MEDIUM 28CM</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image63.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">PIZZA BOX LARGE 33CM </a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image64.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">BAGS W/FLAT HANDLE H 30 X W 28 X B 16 CM </a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image65.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">CUP HOLDER 4 CAN</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image66.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">ST-RECYCLED BROWN NAPKIN 25 X 25 CM 2 PLY</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image67.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">ST-RECYCLED BROWN NAPKIN 33 X 33 CM 2 PLY</a></h4>                                                       </div>                      </div>
+<div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">                          <div class="box">                              <img src="ProductImages/NewProducts/image68.jpeg" style="height:200px; ">                  <h4 class="title"><a href="">ST-RECYCLED BROWN NAPKIN 40 X 40 CM 2 PLY</a></h4>                                                       </div>                      </div>
+                  
+
+                </div>
+
+            </div>
+        </section><!-- #services -->
+
+    <!-- ======= Why Us Section ======= -->
+    <section id="why-us" class="why-us">
+      <div class="container-fluid" data-aos="fade-up">
+
+        <header class="section-header">
+          <h3>Why choose us?</h3>
+          <p>Build Your Brand with ECOPACK.</p>
+        </header>
+
+        <div class="row">
+
+          <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
+            <div class="why-us-img">
+              <img src="assets/img/why-us.jpg" alt="" class="img-fluid">
+            </div>
+          </div>
+
+          <div class="col-lg-6">
+            <div class="why-us-content">
+              <p>With these years of experience in superior design and printing across a range of products, you can trust Detpak to build your brand, and your business. Whether you're a small business, or a global chain, Detpak can help you find a custom print solution that's right for your packaging needs, in the quantities required.</p>
+              <p>
+               We can create a suite of products for your business, whether it be off-the-shelf stock print designs or custom-printed products, using our world class design and printing service. With our expert product development team, we can also develop customised packaging to suit your business.
+
+
+              </p>
+
+              <div class="features clearfix" data-aos="fade-up" data-aos-delay="100">
+                <i class="bi bi-bookmarks" style="color: #f058dc;"></i>
+                <!-- <h4>Corporis dolorem</h4> -->
+                <p>The biggest brands around the world choose us for their branded packaging. They know that if their branded packaging inspires and influences their customers, their bottom line will benefit. Most of Detpak's products can be customised to strengthen your brand, and help you stand out from the crowd.
+</p>
+              </div>
+
+              <div class="features clearfix" data-aos="fade-up" data-aos-delay="200">
+                <i class="bi bi-box-seam" style="color: #ffb774;"></i>
+                <!-- <h4>Eum ut aspernatur</h4> -->
+                <p>By choosing Detpak, you are supporting a company deeply committed to environmental and social responsibility.</p>
+              </div>
+
+              <div class="features clearfix" data-aos="fade-up" data-aos-delay="300">
+                <i class="bi bi-card-checklist" style="color: #589af1;"></i>
+                <h4>Eco-Friendly</h4>
+                <p>Ecopack has a range dedicated to ensuring minimal environmental impact, I am eco™. From sourcing materials and manufacturing to distribution and end-of-life disposal, every stage of the product’s life has been developed to minimise environmental impact. I am eco™ signals our commitment to forming a healthy, balanced relationship with our environment and with our customers.
+</p>
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="container" style=display:none;>
+        <div class="row counters" data-aos="fade-up" data-aos-delay="100">
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Clients</p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="421" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Projects</p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Hours Of Support</p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="48" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Hard Workers</p>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Why Us Section -->
+
+    <!-- ======= Call To Action Section ======= -->
+    <section id="call-to-action" class="call-to-action" style="display: none;">
+      <div class="container" data-aos="zoom-out">
+        <div class="row">
+          <div class="col-lg-9 text-center text-lg-start">
+            <h3 class="cta-title">Call To Action</h3>
+            <p class="cta-text"> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          </div>
+          <div class="col-lg-3 cta-btn-container text-center">
+            <a class="cta-btn align-middle" href="#">Call To Action</a>
+          </div>
+        </div>
+
+      </div>
+    </section><!--  End Call To Action Section -->
+
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="features" style="display: none;">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row feature-item">
+          <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
+            <img src="assets/img/features-1.svg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 wow fadeInUp pt-5 pt-lg-0" data-aos="fade-left" data-aos-delay="150">
+            <h4>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h4>
+            <p>
+              Ipsum in aspernatur ut possimus sint. Quia omnis est occaecati possimus ea. Quas molestiae perspiciatis occaecati qui rerum. Deleniti quod porro sed quisquam saepe. Numquam mollitia recusandae non ad at et a.
+            </p>
+            <p>
+              Ad vitae recusandae odit possimus. Quaerat cum ipsum corrupti. Odit qui asperiores ea corporis deserunt veritatis quidem expedita perferendis. Qui rerum eligendi ex doloribus quia sit. Porro rerum eum eum.
+            </p>
+          </div>
+        </div>
+
+        <div class="row feature-item mt-5 pt-5">
+          <div class="col-lg-6 wow fadeInUp order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+            <img src="assets/img/features-2.svg" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-right" data-aos-delay="150">
+            <h4>Neque saepe temporibus repellat ea ipsum et. Id vel et quia tempora facere reprehenderit.</h4>
+            <p>
+              Delectus alias ut incidunt delectus nam placeat in consequatur. Sed cupiditate quia ea quis. Voluptas nemo qui aut distinctio. Cumque fugit earum est quam officiis numquam. Ducimus corporis autem at blanditiis beatae incidunt sunt.
+            </p>
+            <p>
+              Voluptas saepe natus quidem blanditiis. Non sunt impedit voluptas mollitia beatae. Qui esse molestias. Laudantium libero nisi vitae debitis. Dolorem cupiditate est perferendis iusto.
+            </p>
+            <p>
+              Eum quia in. Magni quas ipsum a. Quis ex voluptatem inventore sint quia modi. Numquam est aut fuga mollitia exercitationem nam accusantium provident quia.
+            </p>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Features Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <header class="section-header">
+          <h3 class="section-title">Our Products</h3>
+        </header>
+
+        <div class="row" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-12">
+            <ul id="portfolio-flters">
+              <!-- <li data-filter="*" class="filter-active">All</li> -->
+              <li >Food Packing Products</li>|
+              <li >Biodegradable Dinner Products</li>|
+              <li >Carrying Bags</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="ProductDisplay/papercups2.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a href="FoodPacking.html">Paper Glasses</a></h4>
+                <!-- <p>App</p> -->
+                <div>
+                  <!-- <a href="~/ProductDisplay/papercups.png" data-gallery="portfolioGallery" title="App 1" class="link-preview portfolio-lightbox"><i class="bi bi-plus"></i></a> -->
+                  <a href="FoodPacking.html" class="" title="More Details">view all</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.1s">
+            <div class="portfolio-wrap">
+              <img src="ProductDisplay/squirebox1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a href="SquareBox.html">Paper Square Boxes</a></h4>
+                <!-- <p></p> -->
+                <div>
+                  <!-- <a href="~/ProductDisplay/Squire.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Web 3"><i class="bi bi-plus"></i></a> -->
+                  <a href="SquareBox.html" class="" title="More Details">view all</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app" data-wow-delay="0.2s">
+            <div class="portfolio-wrap">
+              <img src="ProductDisplay/burgerbox1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a href="BurgerBox.html">Burger Boxes</a></h4>
+                <!-- <p>App</p> -->
+                <div>
+                  <!-- <a href="ProductDisplay/BurgerBox.jpeg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="App 2"><i class="bi bi-plus"></i></a> -->
+                  <a href="BurgerBox.html" class="" title="More Details">view all</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="ProductDisplay/BurgerBox.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a href="BurgerBox.html">Burger Boxes</a></h4>
+                <p>Card</p>
+                <div>
+                  <!-- <a href="assets/img/portfolio/card2.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 2"><i class="bi bi-plus"></i></a> -->
+                  <a href="BurgerBox.html" class="" title="More Details">view all</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        
+        </div>
+
+      </div>
+    </section><!-- End Portfolio Section -->
+
+    <!-- ======= Testimonials Section ======= -->
+    <section id="testimonials" class="testimonials" style="display: none;">
+      <div class="container" data-aos="zoom-in">
+
+        <header class="section-header">
+          <h3>Testimonials</h3>
+        </header>
+
+        <div class="row justify-content-center">
+          <div class="col-lg-8">
+
+            <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+              <div class="swiper-wrapper">
+
+                <div class="swiper-slide">
+                  <div class="testimonial-item">
+                    <img src="assets/img/testimonial-1.jpg" class="testimonial-img" alt="">
+                    <h3>Saul Goodman</h3>
+                    <h4>Ceo &amp; Founder</h4>
+                    <p>
+                      Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                    </p>
+                  </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                  <div class="testimonial-item">
+                    <img src="assets/img/testimonial-2.jpg" class="testimonial-img" alt="">
+                    <h3>Sara Wilsson</h3>
+                    <h4>Designer</h4>
+                    <p>
+                      Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                    </p>
+                  </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                  <div class="testimonial-item">
+                    <img src="assets/img/testimonial-3.jpg" class="testimonial-img" alt="">
+                    <h3>Jena Karlis</h3>
+                    <h4>Store Owner</h4>
+                    <p>
+                      Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                    </p>
+                  </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                  <div class="testimonial-item">
+                    <img src="assets/img/testimonial-4.jpg" class="testimonial-img" alt="">
+                    <h3>Matt Brandon</h3>
+                    <h4>Freelancer</h4>
+                    <p>
+                      Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                    </p>
+                  </div>
+                </div><!-- End testimonial item -->
+
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Testimonials Section -->
+
+    <!-- ======= Team Section ======= -->
+    <section id="team" class="team section-bg" style="display:none;">
+      <div class="container" data-aos="fade-up">
+        <div class="section-header">
+          <h3>Team</h3>
+          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="member">
+              <img src="assets/img/team-1.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Walter White</h4>
+                  <span>Chief Executive Officer</span>
+                  <div class="social">
+                    <a href=""><i class="bi bi-twitter"></i></a>
+                    <a href=""><i class="bi bi-facebook"></i></a>
+                    <a href=""><i class="bi bi-instagram"></i></a>
+                    <a href=""><i class="bi bi-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="member">
+              <img src="assets/img/team-2.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Sarah Jhonson</h4>
+                  <span>Product Manager</span>
+                  <div class="social">
+                    <a href=""><i class="bi bi-twitter"></i></a>
+                    <a href=""><i class="bi bi-facebook"></i></a>
+                    <a href=""><i class="bi bi-instagram"></i></a>
+                    <a href=""><i class="bi bi-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="member">
+              <img src="assets/img/team-3.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>William Anderson</h4>
+                  <span>CTO</span>
+                  <div class="social">
+                    <a href=""><i class="bi bi-twitter"></i></a>
+                    <a href=""><i class="bi bi-facebook"></i></a>
+                    <a href=""><i class="bi bi-instagram"></i></a>
+                    <a href=""><i class="bi bi-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="member">
+              <img src="assets/img/team-4.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Amanda Jepson</h4>
+                  <span>Accountant</span>
+                  <div class="social">
+                    <a href=""><i class="bi bi-twitter"></i></a>
+                    <a href=""><i class="bi bi-facebook"></i></a>
+                    <a href=""><i class="bi bi-instagram"></i></a>
+                    <a href=""><i class="bi bi-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Team Section -->
+
+    <!-- ======= Clients Section ======= -->
+    <section id="clients" class="clients" style="display: none;">
+      <div class="container" data-aos="zoom-in">
+
+        <header class="section-header">
+          <h3>Our Clients</h3>
+        </header>
+
+        <div class="clients-slider swiper">
+          <div class="swiper-wrapper align-items-center">
+            <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Clients Section -->
+
+    <!-- ======= Pricing Section ======= -->
+    <section id="pricing" class="pricing section-bg wow fadeInUp" style="display: none;">
+
+      <div class="container" data-aos="fade-up">
+
+        <header class="section-header">
+          <h3>Pricing</h3>
+          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+        </header>
+
+        <div class="row flex-items-xs-middle flex-items-xs-center">
+
+          <!-- Basic Plan  -->
+          <div class="col-xs-12 col-lg-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="card">
+              <div class="card-header">
+                <h3><span class="currency">$</span>19<span class="period">/month</span></h3>
+              </div>
+              <div class="card-block">
+                <h4 class="card-title">
+                  Basic Plan
+                </h4>
+                <ul class="list-group">
+                  <li class="list-group-item">Odio animi voluptates</li>
+                  <li class="list-group-item">Inventore quisquam et</li>
+                  <li class="list-group-item">Et perspiciatis suscipit</li>
+                  <li class="list-group-item">24/7 Support System</li>
+                </ul>
+                <a href="#" class="btn">Choose Plan</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Regular Plan  -->
+          <div class="col-xs-12 col-lg-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="card">
+              <div class="card-header">
+                <h3><span class="currency">$</span>29<span class="period">/month</span></h3>
+              </div>
+              <div class="card-block">
+                <h4 class="card-title">
+                  Regular Plan
+                </h4>
+                <ul class="list-group">
+                  <li class="list-group-item">Odio animi voluptates</li>
+                  <li class="list-group-item">Inventore quisquam et</li>
+                  <li class="list-group-item">Et perspiciatis suscipit</li>
+                  <li class="list-group-item">24/7 Support System</li>
+                </ul>
+                <a href="#" class="btn">Choose Plan</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Premium Plan  -->
+          <div class="col-xs-12 col-lg-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="card">
+              <div class="card-header">
+                <h3><span class="currency">$</span>39<span class="period">/month</span></h3>
+              </div>
+              <div class="card-block">
+                <h4 class="card-title">
+                  Premium Plan
+                </h4>
+                <ul class="list-group">
+                  <li class="list-group-item">Odio animi voluptates</li>
+                  <li class="list-group-item">Inventore quisquam et</li>
+                  <li class="list-group-item">Et perspiciatis suscipit</li>
+                  <li class="list-group-item">24/7 Support System</li>
+                </ul>
+                <a href="#" class="btn">Choose Plan</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </section><!-- End Pricing Section -->
+
+    <!-- ======= F.A.Q Section ======= -->
+    <section id="faq" class="faq" style="display: none;">
+      <div class="container" data-aos="fade-up">
+        <header class="section-header">
+          <h3>Frequently Asked Questions</h3>
+          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+        </header>
+
+        <ul class="faq-list" data-aso="fade-up" data-aos-delay="100">
+
+          <li>
+            <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">Non consectetur a erat nam at lectus urna duis? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq1" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq2" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq3" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq4" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq5" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
+              </p>
+            </div>
+          </li>
+
+          <li>
+            <div data-bs-toggle="collapse" href="#faq6" class="collapsed question">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+            <div id="faq6" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
+              </p>
+            </div>
+          </li>
+
+        </ul>
+
+      </div>
+    </section><!-- End F.A.Q Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+<footer id="footer" class="section-bg">
+        <div class="footer-top">
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-lg-6">
+
+                        <div class="row">
+
+                            <div class="col-sm-6">
+
+                                <div class="footer-info">
+                                    <h3>Ecopack</h3>
+                                    <p>ECOPACK LLC is one of the leading distributors of Hotel &amp; Catering products based in UAE since 2015. We have specializes in offering tailored solutions to suit the tastes and preferences of our clients.</p>
+                                </div>
+
+                                <div class="footer-newsletter" style="display: none;">
+                                    <h4>Our Newsletter</h4>
+                                    <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem.</p>
+                                    <form action="" method="post">
+                                        <input type="email" name="email"><input type="submit" value="Subscribe">
+                                    </form>
+                                </div>
+
+                            </div>
+
+                            <div class="col-sm-6">
+                                <div class="footer-links">
+                                    <h4>Useful Links</h4>
+                                    <ul>
+                                        <li><a href="#">Home</a></li>
+                                        <li><a href="#">About us</a></li>
+                                        <li><a href="#">Services</a></li>
+                                        <li><a href="#">Terms of service</a></li>
+                                        <li><a href="#">Privacy policy</a></li>
+                                    </ul>
+                                </div>
+
+                                <div class="footer-links">
+                                    <h4>Contact Us</h4>
+                                    <p>
+                                        P.O. Box :116958, Dubai <br>
+                                        United Arab Emirates<br>
+                                        Ras Al Khor <br>
+                                        <strong>Phone:</strong> 04 583 1376<br>
+                                        <strong>Email:</strong> sales@ecopackuae.ae<br>
+                                    </p>
+                                </div>
+
+                                <div class="social-links">
+                                    <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+                                    <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+                                    <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+                                    <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-6">
+
+                        <div class="form">
+
+                            <h4>Send us a message</h4>
+                            <p>If you would like to Ecopack, please provide your personal details and details of your request.</p>
+                            <form action="" method="post" role="form" class="contactForm">
+                                <div class="form-group">
+                                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                                    <div class="validation"></div>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email">
+                                    <div class="validation"></div>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject">
+                                    <div class="validation"></div>
+                                </div>
+                                <div class="form-group">
+                                    <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                                    <div class="validation"></div>
+                                </div>
+
+                                <div id="sendmessage">Your message has been sent. Thank you!</div>
+                                <div id="errormessage"></div>
+
+                                <div class="text-center"><button type="submit" title="Send Message">Send Message</button></div>
+                            </form>
+                        </div>
+
+                    </div>
+
+
+
+                </div>
+
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="copyright">
+                © Copyright @2021 <strong>EcoPack</strong>. All Rights Reserved
+            </div>
+            <div class="credits">
+                <!--
+                  All the links in the footer should remain intact.
+                  You can delete the links only if you purchased the pro version.
+                  Licensing information: https://bootstrapmade.com/license/
+                  Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Rapid
+                -->
+                Designed by <a href="https://bootstrapmade.com/">Morrorra </a>
+            </div>
+        </div>
+    </footer>    <div class="footer-top">
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-lg-6">
+
+            <div class="row">
+
+              <div class="col-sm-6">
+
+                <div class="footer-info">
+                  <h3>Rapid</h3>
+                  <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
+                </div>
+
+                <div class="footer-newsletter">
+                  <h4>Our Newsletter</h4>
+                  <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem.</p>
+                  <form action="" method="post">
+                    <input type="email" name="email"><input type="submit" value="Subscribe">
+                  </form>
+                </div>
+
+              </div>
+
+              <div class="col-sm-6">
+                <div class="footer-links">
+                  <h4>Useful Links</h4>
+                  <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#about">About us</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Terms of service</a></li>
+                    <li><a href="#">Privacy policy</a></li>
+                  </ul>
+                </div>
+
+                <div class="footer-links">
+                  <h4>Contact Us</h4>
+                  <p>
+                    A108 Adam Street <br>
+                    New York, NY 535022<br>
+                    United States <br>
+                    <strong>Phone:</strong> +1 5589 55488 55<br>
+                    <strong>Email:</strong> info@example.com<br>
+                  </p>
+                </div>
+
+                <div class="social-links">
+                  <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+                  <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+                  <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+                  <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="col-lg-6">
+
+            <div class="form">
+
+              <h4>Send us a message</h4>
+              <p>Eos ipsa est voluptates. Nostrum nam libero ipsa vero. Debitis quasi sit eaque numquam similique commodi harum aut temporibus.</p>
+
+              <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                <div class="form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="form-group mt-3">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                </div>
+                <div class="form-group mt-3">
+                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                </div>
+                <div class="form-group mt-3">
+                  <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                </div>
+
+                <div class="my-3">
+                  <div class="loading">Loading</div>
+                  <div class="error-message"></div>
+                  <div class="sent-message">Your message has been sent. Thank you!</div>
+                </div>
+
+                <div class="text-center"><button type="submit" title="Send Message">Send Message</button></div>
+              </form>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>Rapid</strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!--
+        All the links in the footer should remain intact.
+        You can delete the links only if you purchased the pro version.
+        Licensing information: https://bootstrapmade.com/license/
+        Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Rapid
+      -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End  Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
